@@ -1,0 +1,21 @@
+{
+  "name": "whitelistbyadrian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "fivem-node-api": "^0.1.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql-json": "^0.1.3",
+    "request": "^2.88.2",
+    "tcp-ping": "^0.1.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "prefix": "!",
+  "token": "",
+
+  "conexaodb" : "127.0.0.1",
+  "userdb" : "root",
+  "senhadb" : "",
+  "db" : "vltrp"
+
+}
